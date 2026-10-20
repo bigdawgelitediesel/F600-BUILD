@@ -178,7 +178,7 @@ What they did: block oven-baked ~700F for 1 hr then shot blasted (stress relief)
 
 ## Open items
 
-- Engine serial number (Jacob is finding it; rear oil cooler at the oil filter mount, or driver-side valve cover label on 99+). Check it against the rod ranges in `reference/73psd/7.3-factory-specs.md`. Also history, mileage, build date.
+- Engine serial not found on what is left (block casting 1818270C2, manifold 1825113C1 are part numbers, not serials; photos in `reference/photos/`). Last place to look: oil cooler header pad. Rod type to be confirmed by eye when the rods come out. History and mileage unknown.
 - Bore size after Family Machine measures (then order pistons)
 - Confirm rod brand coming through II
 - Injector choice: 238/80 split-shot hybrid vs II Stage 3 single-shot
