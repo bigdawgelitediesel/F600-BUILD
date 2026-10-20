@@ -16,5 +16,6 @@ Separate from the 2011 F350 6.7 build and the El Coyote twin-turbo build. Don't 
 
 - `BUILD.md` - the full plan: decisions, game plan, shop work order, parts catalog, open items
 - `notes/` - dated logs of conversations and decisions as they happen
+- `reference/` - saved source material (73psd factory specs, breakout images, etc.)
 
 Everything on this truck gets saved here.

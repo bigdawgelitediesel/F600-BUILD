@@ -178,7 +178,7 @@ What they did: block oven-baked ~700F for 1 hr then shot blasted (stress relief)
 
 ## Open items
 
-- Engine history, mileage, build date, rod type found on teardown
+- Engine serial number (Jacob is finding it; rear oil cooler at the oil filter mount, or driver-side valve cover label on 99+). Check it against the rod ranges in `reference/73psd/7.3-factory-specs.md`. Also history, mileage, build date.
 - Bore size after Family Machine measures (then order pistons)
 - Confirm rod brand coming through II
 - Injector choice: 238/80 split-shot hybrid vs II Stage 3 single-shot
