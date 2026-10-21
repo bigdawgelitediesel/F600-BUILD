@@ -52,6 +52,7 @@ Push to `main` after every commit. Nobody else is working in this repo.
 - Transmission is a built 4x4 4R100 unless Jacob says otherwise. He asked about 5R110 and 6R140 already; the answer and reasoning are in BUILD.md. Don't reopen it unprompted.
 - Injector choice is still open: 238cc/80% split-shot hybrid vs II Stage 3 230cc single-shot. Give him a recommendation if he asks (lean split-shot hybrid for a daily driver, better cold idle and less cackle).
 - Speed of Air pistons: dropped. Don't bring them back.
+- **ARP everywhere.** Jacob wants ARP fasteners anywhere ARP makes them for this engine (head studs 250-4201, main studs 250-5801, flexplate 150-2802) and ARP bulk 12-point hardware elsewhere. List is in BUILD.md. Main studs mean the block gets line-honed with the studs in.
 - When pricing anything, quote real numbers from a vendor page and say where they came from. II list prices in BUILD.md are from 2026-10-16.
 
 ## Current status (update this line when it changes)
