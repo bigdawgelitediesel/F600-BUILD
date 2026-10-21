@@ -176,12 +176,63 @@ What they did: block oven-baked ~700F for 1 hr then shot blasted (stress relief)
 
 ---
 
+## Fasteners: ARP everywhere it can be (Jacob, 2026-10-21)
+
+Rule: any fastener on this engine that ARP makes a kit for gets ARP. Anything they don't make a kit for gets ARP bulk 12-point hardware in the right thread and length, except where OEM is the right call (noted below). Prices are web list, 2026-10-21.
+
+### Application-specific ARP kits for the 94-03 7.3 Powerstroke
+
+| Fastener | ARP p/n | Notes | Price seen |
+|---|---|---|---|
+| Head studs | **250-4201** | ARP2000, 12pt nuts, washers, Ultra-Torque lube included. The number one item. Torque per the ARP card in three passes, not the Ford spec. | $670 to $790 |
+| Main studs | **250-5801** | 8740 chromoly, nuts and washers. **Family Machine must line-hone the mains with these studs installed and torqued.** Studs load the caps differently than bolts. Tell the shop before they touch the mains and send the studs with the block. | $425 |
+| Flexplate bolts | **150-2802** | 10 bolts, 12pt, 8740 black oxide. Blue Loctite on threads, ARP lube under heads, torque per ARP card (Ford stock spec is 85-89 ft-lb; XDP's equivalent kit says 115; use ARP's number for ARP bolts). | $78 |
+| Rod bolts | 250-6303 | **Do not order.** That kit is for 94-00 factory forged rods. The new II forged rods come with their own bolts. Confirm with II that the rod bolts are ARP (most aftermarket forged rods ship with ARP2000). |  |
+| Damper bolt | none found | The 7.3 damper is one center bolt at 212 ft-lb. ARP 150-2505 is the 4-bolt kit for 6.0/6.4, does not fit. Use a new OEM bolt. If a Fluidampr (720211) or ATI (918889) goes on, use what they supply. |  |
+
+### Generic ARP hardware (bulk 12-point, pick thread and length)
+
+ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measure the old bolt (thread, pitch, length under head) as each comes off today and write it on the bag. Then the order is just a list.
+
+| Location | Approx. thread | Qty | Material | Notes |
+|---|---|---|---|---|
+| Exhaust manifolds to heads | M10 x 1.5 | 16 | Stainless | The classic 7.3 breakage point. Stainless with anti-seize on the threads. Ford torque 45 ft-lb, use ARP's figure for stainless. |
+| Up-pipes to manifolds and collector | M10 x 1.5 | 8 | Stainless | Bellowed up-pipe kits usually include hardware, check before ordering. |
+| Turbo pedestal to block, turbo to pedestal | M10 | 6 | Black oxide | Non-EBPV pedestal may come with its own. |
+| Valve covers | M8 x 1.25 | 20 | Black oxide | 8 ft-lb only, these are not strength parts. Nice to have. |
+| Oil pan to block | M8 x 1.25 | ~24 | Black oxide | 18 ft-lb. |
+| Front cover, rear cover | M8 | ~30 | Black oxide | 15 ft-lb. |
+| Water pump | M8 | 4 | Black oxide | |
+| Oil cooler headers, HPOP, reservoir | M8 | ~14 | Black oxide | 18 ft-lb. |
+| Intake Y-bridge and intake cover | M8 | ~12 | Black oxide | |
+| Bellhousing (4R100 to block) | M12 x 1.75 (confirm) | 8 | Black oxide | Measure one of the bolts in the pile. |
+| Starter | M10 or M12 | 3 | Black oxide | |
+| Engine mounts to block | M12 | 8 | Black oxide | Custom mounts for the F600, so these get sized when the mounts are built. |
+
+### Leave OEM
+
+- **Injector hold-down bolts.** 120 in-lb, they clamp the injector into the cup and o-rings. New Ford or II bolts.
+- **Rocker pedestal bolts.** 20 ft-lb, OEM is fine. ARP if he wants, it buys nothing.
+- **Glow plugs, sensors, fittings.** Not fasteners.
+- **Cam thrust plate, lifter guide bolts, oil jet bolts.** Low torque, OEM.
+
+### Rules that come with ARP
+
+- ARP torque values assume ARP Ultra-Torque lube. Don't use oil or moly and the ARP number together. One lube, one number, from the card in the box.
+- Chase every threaded hole in the block and heads before studs go in. Clean dry threads, hand-tight studs, torque the nuts.
+- Stainless galls. Anti-seize on every stainless exhaust bolt.
+- Keep the ARP instruction cards. Put them in `reference/arp/` when they arrive.
+
+---
+
 ## Open items
 
 - Engine serial not found on what is left (block casting 1818270C2, manifold 1825113C1 are part numbers, not serials; photos in `reference/photos/`). Last place to look: oil cooler header pad. Rod type to be confirmed by eye when the rods come out. History and mileage unknown.
 - Bore size after Family Machine measures (then order pistons)
 - Confirm rod brand coming through II
 - Injector choice: 238/80 split-shot hybrid vs II Stage 3 single-shot
+- Fastener sizes: measure thread, pitch, and length of flexplate, bellhousing, manifold, valve cover, pan, and cover bolts during teardown so the ARP bulk order can be placed
+- Confirm the II rod bolts are ARP
 - Axle sources and gear ratio
 - Tire size
 - Engine mounts and radiator fitment in the F600
