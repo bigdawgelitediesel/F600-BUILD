@@ -76,7 +76,10 @@ Laid out 2026-10-16. Not yet approved part by part.
 - Polish and balance crank.
 - **Decided:** Industrial Injection forged rods + coated pistons, new rings. Replaces the Crower idea and settles forged-vs-PMR regardless of what the old rods are.
 - Speed of Air dimpled pistons: dropped.
-- Stock or Colt Stage 1 cam, new lifters.
+- Cam: stock if the lobes check out at Family Machine, Colt Stage 2 ($749, Rudy's/Dale's 2026-10-22) if he wants more. Decide after the shop sees it.
+- Lifters: NEW regardless (2026-10-22). 7.3 runs hydraulic roller lifters, needle bearings are the known failure. KDD Gen 2 set of 16 $395 (killdevildiesel.com) is the pick; Power Stroke Products set $214 (dieselpowerproducts.com) is the budget option.
+- Pushrods: NEW chromoly (2026-10-22). XDP 3/8 $270, KDD $299, PSP $324.
+- Rocker arms: reuse after shop inspection (fulcrum galling, tip pitting). No street-grade new set exists, aftermarket is Jesel race hardware. Replace only what the shop flags.
 - ARP head studs. The number one bulletproof item.
 - New valves, guides, seals, springs. Brass injector cups.
 - **No O-rings at this level.** O-ring/fire-ring is a 40+ psi, 600+ hp item. On a street truck it compromises coolant sealing and makes future head gasket jobs pickier. ARP studs + quality stock-style gasket + flat decks is the fix at 450. O-ring later if he goes compounds/550+. Machine work is the same either way.
