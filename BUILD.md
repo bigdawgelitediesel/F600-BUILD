@@ -76,7 +76,11 @@ Laid out 2026-10-16. Not yet approved part by part.
 - Polish and balance crank.
 - **Decided:** Industrial Injection forged rods + coated pistons, new rings. Replaces the Crower idea and settles forged-vs-PMR regardless of what the old rods are.
 - Speed of Air dimpled pistons: dropped.
-- Stock or Colt Stage 1 cam, new lifters.
+- Cam: stock if the lobes check out at Family Machine, Colt Stage 2 ($749, Rudy's/Dale's 2026-10-22) if he wants more. Decide after the shop sees it.
+- Lifters: NEW regardless (2026-10-22). 7.3 runs hydraulic roller lifters, needle bearings are the known failure. KDD Gen 2 set of 16 $395 (killdevildiesel.com) is the pick; Power Stroke Products set $214 (dieselpowerproducts.com) is the budget option.
+- Pushrods: NEW chromoly (2026-10-22). XDP 3/8 $270, KDD $299, PSP $324.
+- Valve covers: BILLET ALUMINUM, decided 2026-10-22. Options priced that day: Choate Performance $1,395, SKU CEP73BVC, https://choateperformance.com/products/7-3-powerstroke-billet-valve-covers, 901-553-9847 (94-03, raw/black/blue/red powder coat, 1-3 wk lead, uses stock gaskets and hardware; Jacob sent this link 2026-10-22, it is the front-runner), G&R Diesel $1,499 (99-03, machined finish), UDP $2,000 (polished or any anodize, custom engraving). Lean Choate, UDP if he wants engraving. Before ordering confirm: pair vs each, passenger-side CCV mount, stock gasket (UVCH connectors live in the gasket so electrical stays stock). New gaskets either way: Alliant AP0014 set with UVCH option ~$176-245.
+- Rocker arms: reuse after shop inspection (fulcrum galling, tip pitting). No street-grade new set exists, aftermarket is Jesel race hardware. Replace only what the shop flags.
 - ARP head studs. The number one bulletproof item.
 - New valves, guides, seals, springs. Brass injector cups.
 - **No O-rings at this level.** O-ring/fire-ring is a 40+ psi, 600+ hp item. On a street truck it compromises coolant sealing and makes future head gasket jobs pickier. ARP studs + quality stock-style gasket + flat decks is the fix at 450. O-ring later if he goes compounds/550+. Machine work is the same either way.
@@ -199,8 +203,8 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 | Exhaust manifolds to heads | M10 x 1.5 | 16 | Stainless | The classic 7.3 breakage point. Stainless with anti-seize on the threads. Ford torque 45 ft-lb, use ARP's figure for stainless. |
 | Up-pipes to manifolds and collector | M10 x 1.5 | 8 | Stainless | Bellowed up-pipe kits usually include hardware, check before ordering. |
 | Turbo pedestal to block, turbo to pedestal | M10 | 6 | Black oxide | Non-EBPV pedestal may come with its own. |
-| Valve covers | M8 x 1.25 | 20 | Black oxide | 8 ft-lb only, these are not strength parts. Nice to have. |
-| Oil pan to block | M8 x 1.25 | ~24 | Black oxide | 18 ft-lb. |
+| Valve covers | M8 x 1.25 | 20 | ARP studs + 12pt nuts, or Dieselsite 7.3 stud kit | Back on the list now that billet aluminum covers are going on (2026-10-22). Still low torque, follow the cover maker's number. |
+| Oil pan to block | M6 x 1.0 (10mm head, Jacob confirmed 2026-10-21) | ~24 | Black oxide | Ford WSM: 11 Nm / 8 ft-lb. The Riff Raff sheet says 18, that is wrong for an M6 into the rear cover flange. Use 8. |
 | Front cover, rear cover | M8 | ~30 | Black oxide | 15 ft-lb. |
 | Water pump | M8 | 4 | Black oxide | |
 | Oil cooler headers, HPOP, reservoir | M8 | ~14 | Black oxide | 18 ft-lb. |
@@ -232,7 +236,7 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 - Bore size after Family Machine measures (then order pistons)
 - Confirm rod brand coming through II
 - Injector choice: 238/80 split-shot hybrid vs II Stage 3 single-shot
-- Fastener sizes: measure thread, pitch, and length of flexplate, bellhousing, manifold, valve cover, pan, and cover bolts during teardown so the ARP bulk order can be placed
+- Fastener sizes: measure thread, pitch, and length of flexplate, bellhousing, manifold, pan, and cover bolts during teardown so the ARP bulk order can be placed
 - Confirm the II rod bolts are ARP
 - Axle sources and gear ratio
 - Tire size
@@ -240,3 +244,4 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 - Wiring harness vendor (standalone 7.3 PCM)
 - Transmission purchase and builder
 - Flatbed design
+- Billet valve covers: call Choate (pair vs each, CCV provision), pick color, order with the engine parts
