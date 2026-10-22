@@ -200,7 +200,7 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 | Up-pipes to manifolds and collector | M10 x 1.5 | 8 | Stainless | Bellowed up-pipe kits usually include hardware, check before ordering. |
 | Turbo pedestal to block, turbo to pedestal | M10 | 6 | Black oxide | Non-EBPV pedestal may come with its own. |
 | Valve covers | M8 x 1.25 | 20 | Black oxide | 8 ft-lb only, these are not strength parts. Nice to have. |
-| Oil pan to block | M8 x 1.25 | ~24 | Black oxide | 18 ft-lb. |
+| Oil pan to block | M6 x 1.0 (10mm head, Jacob confirmed 2026-10-21) | ~24 | Black oxide | Ford WSM: 11 Nm / 8 ft-lb. The Riff Raff sheet says 18, that is wrong for an M6 into the rear cover flange. Use 8. |
 | Front cover, rear cover | M8 | ~30 | Black oxide | 15 ft-lb. |
 | Water pump | M8 | 4 | Black oxide | |
 | Oil cooler headers, HPOP, reservoir | M8 | ~14 | Black oxide | 18 ft-lb. |
