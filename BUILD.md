@@ -202,7 +202,7 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 | Exhaust manifolds to heads | M10 x 1.5 | 16 | Stainless | The classic 7.3 breakage point. Stainless with anti-seize on the threads. Ford torque 45 ft-lb, use ARP's figure for stainless. |
 | Up-pipes to manifolds and collector | M10 x 1.5 | 8 | Stainless | Bellowed up-pipe kits usually include hardware, check before ordering. |
 | Turbo pedestal to block, turbo to pedestal | M10 | 6 | Black oxide | Non-EBPV pedestal may come with its own. |
-| Valve covers | M8 x 1.25 | 20 | Black oxide | 8 ft-lb only, these are not strength parts. Nice to have. |
+| Valve covers | M8 x 1.25 | 20 | OEM, not ARP | Covers are plastic composite. 8 ft-lb, more cracks the bosses. ARP buys nothing here (2026-10-22). |
 | Oil pan to block | M6 x 1.0 (10mm head, Jacob confirmed 2026-10-21) | ~24 | Black oxide | Ford WSM: 11 Nm / 8 ft-lb. The Riff Raff sheet says 18, that is wrong for an M6 into the rear cover flange. Use 8. |
 | Front cover, rear cover | M8 | ~30 | Black oxide | 15 ft-lb. |
 | Water pump | M8 | 4 | Black oxide | |
@@ -234,7 +234,7 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 - Bore size after Family Machine measures (then order pistons)
 - Confirm rod brand coming through II
 - Injector choice: 238/80 split-shot hybrid vs II Stage 3 single-shot
-- Fastener sizes: measure thread, pitch, and length of flexplate, bellhousing, manifold, valve cover, pan, and cover bolts during teardown so the ARP bulk order can be placed
+- Fastener sizes: measure thread, pitch, and length of flexplate, bellhousing, manifold, pan, and cover bolts during teardown so the ARP bulk order can be placed
 - Confirm the II rod bolts are ARP
 - Axle sources and gear ratio
 - Tire size
