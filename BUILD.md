@@ -227,7 +227,8 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 
 ## Open items
 
-- Engine serial not found on what is left (block casting 1818270C2, manifold 1825113C1 are part numbers, not serials; photos in `reference/photos/`). Last place to look: oil cooler header pad. Rod type to be confirmed by eye when the rods come out. History and mileage unknown.
+- Engine is a Dealers Diesel reman (tag found 2026-10-22, reman serial 440469, rated 215 hp). Navistar serial hunt is over. Rod type to be confirmed by eye when the rods come out. History and mileage unknown.
+- **Generation check:** 215 hp is the 96-97 rating. Confirm 99-03 vs 94-97 from injector codes (AB/AD split-shot vs AA single-shot) and EBPV pedestal. If 94-97, re-check the injector, turbo, HPOP and IDM lines in the game plan and II catalog.
 - Bore size after Family Machine measures (then order pistons)
 - Confirm rod brand coming through II
 - Injector choice: 238/80 split-shot hybrid vs II Stage 3 single-shot

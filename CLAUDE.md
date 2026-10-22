@@ -57,4 +57,4 @@ Push to `main` after every commit. Nobody else is working in this repo.
 
 ## Current status (update this line when it changes)
 
-2026-10-21: Teardown day. Jacob is taking the 7.3 down to the bare block. Waiting on: rod type, serial number if the oil cooler pad has it, worst cylinder wall condition, any surprises. Block casting 1818270C2, manifold 1825113C1 recorded; serial not yet found.
+2026-10-22: Teardown in progress, flexplate off, pan next. Found a Dealers Diesel reman tag (serial 440469, 215 hp), so the Navistar serial hunt is over. Open: is this a 94-97 or 99-03 engine (check injector codes and EBPV pedestal), rod type, worst bore.
