@@ -10,7 +10,7 @@ Style: short sentences, no em-dashes, no "great question", no bullet-point essay
 
 ## The build in one paragraph
 
-1959 Ford F600, cab and frame only kept. Going in: a 99-03 Super Duty 7.3 Powerstroke, fully custom rebuilt by Family Machine LLC in Denver, targeting 400-450 hp and bulletproof (reliability is non-negotiable). Automatic, soft-locked on a built 4x4 4R100. 4x4 conversion on the original F600 frame, no donor truck, everything sourced piece by piece. Jacob welds his own flatbed with a camper receiver. It has to daily drive, tow a camper, and be a show piece. No deadline, budget flexible, buy right once. Industrial Injection (II) is the primary parts vendor and is supplying forged rods and coated pistons. ARP studs, no O-rings at this power level. Full detail is in `BUILD.md`.
+1959 Ford F600, cab and frame only kept. Going in: a 7.3 Powerstroke (Dealers Diesel reman core, Jacob believes 94-97 OBS, built with 99-03 fuel and electronics), fully custom rebuilt by Family Machine LLC in Denver, targeting 400-450 hp and bulletproof (reliability is non-negotiable). Automatic, soft-locked on a built 4x4 4R100. 4x4 conversion on the original F600 frame, no donor truck, everything sourced piece by piece. Jacob welds his own flatbed with a camper receiver. It has to daily drive, tow a camper, and be a show piece. No deadline, budget flexible, buy right once. Industrial Injection (II) is the primary parts vendor and is supplying forged rods and coated pistons. ARP studs, no O-rings at this power level. Full detail is in `BUILD.md`.
 
 This is one of three personal builds. Do NOT mix it up with his 2011 F350 6.7 (600 hp build) or El Coyote (twin-turbo 5.2 Coyote). Different trucks, different parts, different goals.
 
@@ -57,4 +57,4 @@ Push to `main` after every commit. Nobody else is working in this repo.
 
 ## Current status (update this line when it changes)
 
-2026-10-22: Teardown in progress, flexplate off, pan next. Found a Dealers Diesel reman tag (serial 440469, 215 hp), so the Navistar serial hunt is over. Open: is this a 94-97 or 99-03 engine (check injector codes and EBPV pedestal), rod type, worst bore.
+2026-10-23: Teardown in progress, rockers and pushrods out and bagged in order, pan next. Engine is a Dealers Diesel reman (215 hp tag), Jacob believes 94-97 OBS, confirm from the front cover. No injectors came with it. Fuel and electronics will be 99-03 either way. Still open: rod type, worst bore.

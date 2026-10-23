@@ -8,7 +8,7 @@ Core decisions captured 2026-10-16. Specific part numbers, vendors, and pricing 
 
 ## Engine
 
-99-03 Super Duty 7.3 Powerstroke (split-shot HEUI). Full custom rebuild.
+7.3 Powerstroke, Dealers Diesel reman core rated 215 hp. Jacob's read 2026-10-23: likely a 94-97 OBS engine, not yet confirmed. Full custom rebuild with a 99-03 fuel and electronics package (split-shot HEUI injectors, HPOP, IDM, PCM, harness). OBS core adds: block off the mechanical lift pump drive on the front cover, oil cooler matched to the housing on the block.
 
 - Check the build date. Pre-2001 have forged rods, 2001+ have powdered-metal rods. Moot now, since new forged rods are going in either way.
 - Photograph the casting date and build sticker while it is apart.
@@ -231,7 +231,7 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 
 ## Open items
 
-- Engine is a Dealers Diesel reman (tag found 2026-10-22, reman serial 440469, rated 215 hp). Navistar serial hunt is over. Rod type to be confirmed by eye when the rods come out. History and mileage unknown.
+- Engine is a Dealers Diesel reman (tag found 2026-10-22, reman serial 440469, rated 215 hp). Jacob believes it is a 94-97 OBS core. Navistar serial hunt is over. Rod type to be confirmed by eye when the rods come out. History and mileage unknown.
 - **Generation check:** 215 hp is the 96-97 rating. Confirm 99-03 vs 94-97 from injector codes (AB/AD split-shot vs AA single-shot) and EBPV pedestal. No injectors came with the engine, so use the front cover (94-97 mechanical lift pump pad), EBPV pedestal, oil cooler style, head castings. **Either way the fuel and electronics package is bought as 99-03** (injectors, HPOP, IDM, PCM, harness); the generation only changes the oil cooler and whether a lift pump boss gets plugged.
 - Bore size after Family Machine measures (then order pistons)
 - Confirm rod brand coming through II
