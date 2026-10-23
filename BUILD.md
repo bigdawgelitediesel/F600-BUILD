@@ -87,6 +87,7 @@ Laid out 2026-10-16. Not yet approved part by part.
 - **No O-rings at this level.** O-ring/fire-ring is a 40+ psi, 600+ hp item. On a street truck it compromises coolant sealing and makes future head gasket jobs pickier. ARP studs + quality stock-style gasket + flat decks is the fix at 450. O-ring later if he goes compounds/550+. Machine work is the same either way.
 - Rings: standard replacement set gapped to bore, torque-plate hone, real break-in under load.
 - New LPOP, oil cooler o-rings.
+- New harmonic damper (OEM or Fluidampr). Old one looked like the outer ring had walked, 2026-10-23 photo. Price not pulled yet.
 
 **Fuel**
 - Stage 1.5 hybrid injectors 238cc/80% (250/100 is the step up). See II catalog below for the single-shot alternative.
