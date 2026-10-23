@@ -80,6 +80,7 @@ Laid out 2026-10-16. Not yet approved part by part.
 - Lifters: NEW regardless (2026-10-22). 7.3 runs hydraulic roller lifters, needle bearings are the known failure. KDD Gen 2 set of 16 $395 (killdevildiesel.com) is the pick; Power Stroke Products set $214 (dieselpowerproducts.com) is the budget option.
 - Pushrods: NEW chromoly (2026-10-22). XDP 3/8 $270, KDD $299, PSP $324.
 - Valve covers: BILLET ALUMINUM, decided 2026-10-22. Options priced that day: Choate Performance $1,395, SKU CEP73BVC, https://choateperformance.com/products/7-3-powerstroke-billet-valve-covers, 901-553-9847 (94-03, raw/black/blue/red powder coat, 1-3 wk lead, uses stock gaskets and hardware; Jacob sent this link 2026-10-22, it is the front-runner), G&R Diesel $1,499 (99-03, machined finish), UDP $2,000 (polished or any anodize, custom engraving). Lean Choate, UDP if he wants engraving. Before ordering confirm: pair vs each, passenger-side CCV mount, stock gasket (UVCH connectors live in the gasket so electrical stays stock). New gaskets either way: Alliant AP0014 set with UVCH option ~$176-245.
+- Intake plenums: CNC Fabrication billet, ON THE LIST (Jacob, 2026-10-23). Part 423008, $399.95 at dieselpowerproducts.com, raw/red/black/blue, includes bolt and nut kit plus Ultra Gray RTV, 6061-T6511, made in USA. These are the 99.5-03 3-inch plenums and they are the right ones even if the block is a 94-97 core, because the S300 turbo kits in this plan run 99-03 style 3-inch intake plumbing; CNC Fab's own listing says use the 3-inch set on an OBS with a late turbo mount. The 94-early 99 set (423004, same price) is only for keeping a stock OBS turbo. Install note from CNC Fab: one passenger-front plenum bolt cannot go in with the front cover on, so plenums go on the heads at Family Machine before the front cover, torque 40 ft-lb center out. Pair with CNC Fab boot kit 423022 ($79.95) when the intake plumbing is spec'd.
 - Rocker arms: reuse after shop inspection (fulcrum galling, tip pitting). No street-grade new set exists, aftermarket is Jesel race hardware. Replace only what the shop flags.
 - ARP head studs. The number one bulletproof item.
 - New valves, guides, seals, springs. Brass injector cups.
@@ -208,6 +209,7 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 | Front cover, rear cover | M8 | ~30 | Black oxide | 15 ft-lb. |
 | Water pump | M8 | 4 | Black oxide | |
 | Oil cooler headers, HPOP, reservoir | M8 | ~14 | Black oxide | 18 ft-lb. |
+| Intake plenums to heads | per CNC Fab kit | 20 | CNC Fab supplied kit | Kit hardware, 40 ft-lb. ARP swap optional, same thread once measured. |
 | Intake Y-bridge and intake cover | M8 | ~12 | Black oxide | |
 | Bellhousing (4R100 to block) | M12 x 1.75 (confirm) | 8 | Black oxide | Measure one of the bolts in the pile. |
 | Starter | M10 or M12 | 3 | Black oxide | |
@@ -244,4 +246,5 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 - Wiring harness vendor (standalone 7.3 PCM)
 - Transmission purchase and builder
 - Flatbed design
+- Intake plenums: order CNC Fab 423008 with the engine parts, color to match valve covers, must be at the shop before the front cover goes on
 - Billet valve covers: call Choate (pair vs each, CCV provision), pick color, order with the engine parts
