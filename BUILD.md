@@ -129,7 +129,7 @@ Status 2026-10-16: Jacob is tearing the 7.3 down and sending it to Family Machin
 - Cam bearings and freeze plugs
 - All clearances in writing
 
-**Bore size rule:** do NOT order pistons until the shop measures the bores. Stock is 4.11". Go the smallest oversize that cleans all 8. A rusty sat-engine usually needs .020; pitting may force more. If one hole is bad, sleeve it rather than going big across the board.
+**Bore size rule:** do NOT order pistons until the shop measures the bores. Stock is 4.11", but **this block is already .030 over (4.140)**: the reman pistons are stamped .030 (found 2026-10-23, photos in `reference/photos/`). II coated pistons are std/.020/.040 only, so .040 is the only II option and it leaves .010 of cleanup. If a hole needs more than .010, sleeve it back or look at a piston brand with more oversize options. Tell Family Machine before they pick a bore target.
 
 **Important:** Industrial Injection coated pistons come in **standard / .020 / .040 only, no .030.** Tell Family Machine before they pick a bore target. The shop needs the piston oversize spec and the rod set in hand before boring and balancing.
 
@@ -233,7 +233,7 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 
 - Engine is a Dealers Diesel reman (tag found 2026-10-22, reman serial 440469, rated 215 hp). Jacob believes it is a 94-97 OBS core. Navistar serial hunt is over. Rod type to be confirmed by eye when the rods come out. History and mileage unknown.
 - **Generation check:** 215 hp is the 96-97 rating. Confirm 99-03 vs 94-97 from injector codes (AB/AD split-shot vs AA single-shot) and EBPV pedestal. No injectors came with the engine, so use the front cover (94-97 mechanical lift pump pad), EBPV pedestal, oil cooler style, head castings. **Either way the fuel and electronics package is bought as 99-03** (injectors, HPOP, IDM, PCM, harness); the generation only changes the oil cooler and whether a lift pump boss gets plugged.
-- Bore size after Family Machine measures (then order pistons)
+- Bore size after Family Machine measures (then order pistons). Block is already .030 over, so .040 II pistons only if every hole cleans at .010; otherwise sleeve or change piston brand.
 - Confirm rod brand coming through II
 - Injector choice: 238/80 split-shot hybrid vs II Stage 3 single-shot
 - Fastener sizes: measure thread, pitch, and length of flexplate, bellhousing, manifold, pan, and cover bolts during teardown so the ARP bulk order can be placed

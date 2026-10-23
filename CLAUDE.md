@@ -46,7 +46,7 @@ Push to `main` after every commit. Nobody else is working in this repo.
 ## Standing rules
 
 - Everything about this truck gets saved here. If Jacob says something worth remembering and it isn't in the repo, it's lost. Write it down.
-- Bore size: do not let anyone order pistons until Family Machine measures the bores. Stock is 4.11". II coated pistons come in standard / .020 / .040 only, no .030.
+- Bore size: do not let anyone order pistons until Family Machine measures the bores. Stock is 4.11" but **this block is already .030 over** (reman pistons stamped .030, found 2026-10-23). II coated pistons come in standard / .020 / .040 only, so .040 is the only II option and leaves .010 of cleanup. Beyond that: sleeve or another piston brand.
 - Rods: II forged rods are going in regardless of what came out. Old rod type (forged vs PMR) is worth noting but changes nothing.
 - No O-rings on the heads at 450 hp. ARP studs plus a quality stock-style gasket. Revisit only if he goes past 550.
 - Transmission is a built 4x4 4R100 unless Jacob says otherwise. He asked about 5R110 and 6R140 already; the answer and reasoning are in BUILD.md. Don't reopen it unprompted.
@@ -57,4 +57,4 @@ Push to `main` after every commit. Nobody else is working in this repo.
 
 ## Current status (update this line when it changes)
 
-2026-10-23: Teardown in progress, rockers and pushrods out and bagged in order, pan next. Engine is a Dealers Diesel reman (215 hp tag), Jacob believes 94-97 OBS, confirm from the front cover. No injectors came with it. Fuel and electronics will be 99-03 either way. Still open: rod type, worst bore.
+2026-10-23: Heads off. Pistons stamped .030, block is already .030 over, which squeezes the II piston plan (.040 is the only option left, .010 of cleanup). Bores look OK in photos, no scoring seen. Engine is a Dealers Diesel reman (215 hp tag), Jacob believes 94-97 OBS. Fuel and electronics will be 99-03 either way. Still open: rod type, bore measurements from Family Machine.
