@@ -76,11 +76,12 @@ Laid out 2026-10-16. Not yet approved part by part.
 - Polish and balance crank.
 - **Decided:** Industrial Injection forged rods + coated pistons, new rings. Replaces the Crower idea and settles forged-vs-PMR regardless of what the old rods are.
 - Speed of Air dimpled pistons: dropped.
-- Cam: stock if the lobes check out at Family Machine, Colt Stage 2 ($749, Rudy's/Dale's 2026-10-22) if he wants more. Decide after the shop sees it.
+- Cam: DECIDED Colt Stage 2, C.852.H (Jacob confirmed 2026-10-23, link: https://dieselpowerproducts.com/products/colt-cams-stage-2-camshaft-94-03-ford-7-3l-powerstroke). New billet (Stage 1 is a regrind of a used core, skip it). 192/200 duration, 106 LSA, to 5,000 rpm, drop-in with stock springs and pushrod length, mild idle. Feeds the S300 down low and replaces the concave stock lobes that eat lifters. $749 Rudy's/Dale's, $799 DPP. Order with the lifters so the shop has it for cam bearing fit and piston-to-valve check.
 - Lifters: NEW regardless (2026-10-22). 7.3 runs hydraulic roller lifters, needle bearings are the known failure. KDD Gen 2 set of 16 $395 (killdevildiesel.com) is the pick; Power Stroke Products set $214 (dieselpowerproducts.com) is the budget option.
 - Pushrods: NEW chromoly (2026-10-22). XDP 3/8 $270, KDD $299, PSP $324.
 - Valve covers: BILLET ALUMINUM, decided 2026-10-22. Options priced that day: Choate Performance $1,395, SKU CEP73BVC, https://choateperformance.com/products/7-3-powerstroke-billet-valve-covers, 901-553-9847 (94-03, raw/black/blue/red powder coat, 1-3 wk lead, uses stock gaskets and hardware; Jacob sent this link 2026-10-22, it is the front-runner), G&R Diesel $1,499 (99-03, machined finish), UDP $2,000 (polished or any anodize, custom engraving). Lean Choate, UDP if he wants engraving. Before ordering confirm: pair vs each, passenger-side CCV mount, stock gasket (UVCH connectors live in the gasket so electrical stays stock). New gaskets either way: Alliant AP0014 set with UVCH option ~$176-245.
-- Rocker arms: reuse after shop inspection (fulcrum galling, tip pitting). No street-grade new set exists, aftermarket is Jesel race hardware. Replace only what the shop flags.
+- Intake plenums: CNC Fabrication billet, ON THE LIST (Jacob, 2026-10-23). Part 423008, $399.95 at dieselpowerproducts.com, raw/red/black/blue, includes bolt and nut kit plus Ultra Gray RTV, 6061-T6511, made in USA. These are the 99.5-03 3-inch plenums and they are the right ones even if the block is a 94-97 core, because the S300 turbo kits in this plan run 99-03 style 3-inch intake plumbing; CNC Fab's own listing says use the 3-inch set on an OBS with a late turbo mount. The 94-early 99 set (423004, same price) is only for keeping a stock OBS turbo. Install note from CNC Fab: one passenger-front plenum bolt cannot go in with the front cover on, so plenums go on the heads at Family Machine before the front cover, torque 40 ft-lb center out. Pair with CNC Fab boot kit 423022 ($79.95) when the intake plumbing is spec'd.
+- Rocker arms: reuse after shop inspection (fulcrum galling, tip pitting). Upgrade market checked 2026-10-23: Hypermax Ultimax billet $3,150 (solid lifters + special pushrods), Jesel 7.3 kit $4,075 (pairs with KDD $1,750 solid roller lifters), Harland Sharp D-Force (maker says not for street). All race valvetrain, all incompatible with the hydraulic lifter plan, none needed at 450. Replace any flagged rocker with new OEM Ford: intake F4TZ-6564-A $99.95 ea at prosourcediesel.com, exhaust is a separate p/n. Rockers in the 2026-10-22 photo are stamped 1820156C1 and looked clean.
 - ARP head studs. The number one bulletproof item.
 - New valves, guides, seals, springs. Brass injector cups.
 - **No O-rings at this level.** O-ring/fire-ring is a 40+ psi, 600+ hp item. On a street truck it compromises coolant sealing and makes future head gasket jobs pickier. ARP studs + quality stock-style gasket + flat decks is the fix at 450. O-ring later if he goes compounds/550+. Machine work is the same either way.
@@ -208,6 +209,7 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 | Front cover, rear cover | M8 | ~30 | Black oxide | 15 ft-lb. |
 | Water pump | M8 | 4 | Black oxide | |
 | Oil cooler headers, HPOP, reservoir | M8 | ~14 | Black oxide | 18 ft-lb. |
+| Intake plenums to heads | per CNC Fab kit | 20 | CNC Fab supplied kit | Kit hardware, 40 ft-lb. ARP swap optional, same thread once measured. |
 | Intake Y-bridge and intake cover | M8 | ~12 | Black oxide | |
 | Bellhousing (4R100 to block) | M12 x 1.75 (confirm) | 8 | Black oxide | Measure one of the bolts in the pile. |
 | Starter | M10 or M12 | 3 | Black oxide | |
@@ -244,4 +246,6 @@ ARP sells metric 12-point bolts in 5-packs, 8740 black oxide or stainless. Measu
 - Wiring harness vendor (standalone 7.3 PCM)
 - Transmission purchase and builder
 - Flatbed design
+- Order Colt Stage 2 cam C.852.H ($749 Rudy's/Dale's, $799 DPP) with the lifters, before the block goes to Family Machine
+- Intake plenums: order CNC Fab 423008 with the engine parts, color to match valve covers, must be at the shop before the front cover goes on
 - Billet valve covers: call Choate (pair vs each, CCV provision), pick color, order with the engine parts
